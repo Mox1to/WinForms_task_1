@@ -1,0 +1,28 @@
+A:\ООП\Лаба4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+A:\ООП\Лаба4\Lab4\Lab4\bin\Debug\Lab4.exe
+A:\ООП\Лаба4\Lab4\Lab4\bin\Debug\Lab4.pdb
+A:\ООП\Лаба4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+A:\ООП\Лаба4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+A:\ООП\Лаба4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+A:\ООП\Лаба4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+A:\ООП\Лаба4\Lab4\Lab4\obj\Debug\Lab4.exe
+A:\ООП\Лаба4\Lab4\Lab4\obj\Debug\Lab4.pdb
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\bin\Debug\Lab4.exe.config
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\bin\Debug\Lab4.exe
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\bin\Debug\Lab4.pdb
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.Form1.resources
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.exe
+A:\Дистанционка\ООП\Лаба4\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\bin\Debug\Lab4.exe
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.exe
+C:\Users\ibros\OneDrive\Рабочий стол\БИВТ-19-2_Астахов_Владимир_Романович_lab_4\Lab4\obj\Debug\Lab4.pdb
